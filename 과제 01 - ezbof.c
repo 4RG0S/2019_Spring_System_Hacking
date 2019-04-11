@@ -1,6 +1,6 @@
 
 // 시스템 해킹 입문하기 팀 과제 01번
-// gcc -o ezbof ezbof.c -fno-stack-protetor -m32 -mpreferred-stack-boundary
+// gcc -o ezbof ezbof.c -fno-stack-protetor -m32 -mpreferred-stack-boundary=2
 // ssh ezbof@168.188.123.212
 // password : argos
 
