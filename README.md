@@ -1,5 +1,10 @@
 # 2019_Spring_System_Hacking
 
+## Chapter Object.
+
+* 1. ROP(Return Oriented Programming)
+* 2. Canary bypass
+
 ## Chapter 1. Basic of System hacking
 
 * 1. what is system hacking?
